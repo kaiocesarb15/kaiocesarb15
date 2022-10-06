@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kaio-césar-de-oliveira-barreto-450a07252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaio césar de oliveira barreto" height="30" width="40" /></a>
 <a href="https://instagram.com/kaio_cbarreto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaio_cbarreto" height="30" width="40" /></a>
-<a href="https://discord.gg/6741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6741" height="30" width="40" /></a>
+<a href="https://discord.gg/#6741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6741" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
