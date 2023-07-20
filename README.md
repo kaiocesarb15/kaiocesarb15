@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiocesarb15&label=Profile%20views&color=0e75b6&style=flat" alt="kaiocesarb15" /> </p>
 
-- 📒 I’m currently learning **C and Arduino**
+- 📒 Member of [IEEE RAS - UFPB](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) (Robotics and Automation Society)
 
 - 📨 How to reach me **kaiocesarb15@gmail.com**
 
