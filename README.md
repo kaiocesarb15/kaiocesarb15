@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiocesarb15&label=Profile%20views&color=0e75b6&style=flat" alt="kaiocesarb15" /> </p>
 
-- 📒 Member of [IEEE RAS - UFPB](https://www.linkedin.com/company/ras-ufpb/?viewAsMember=true) (Robotics and Automation Society)
+- 🤖 Vice president of [IEEE RAS - UFPB](https://github.com/RAS-UFPB) (Robotics and Automation Society)
+
+- 🐋 Member of [TAIL](https://www.linkedin.com/company/tailufpb/mycompany/) (Technology and Artificial Intelligence League)
+
+- 🛰 volunteer at the [LASER robotics](https://github.com/LASER-Robotics) laboratory
 
 - 📨 How to reach me **kaiocesarb15@gmail.com**
 
